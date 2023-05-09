@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do SwadgonX 😁
+## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/SwadgonX ">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwadgonX &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwadgonX &layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/swadgonx">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swadgonx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadgonx&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -20,7 +20,6 @@
   <a href="https://instagram.com/swadgonx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/swadgon-x-476134191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/SwadgonX/SwadgonX
-/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/swadgonx/swadgonx/blob/output/github-contribution-grid-snake.svg)
 
 </div>
